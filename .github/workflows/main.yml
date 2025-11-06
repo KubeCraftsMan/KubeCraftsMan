@@ -1,9 +1,14 @@
 name: Generate Datas
 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
-  workflow_dispatch:
+  workflow_dispatch
 
 jobs:
   build:
@@ -16,7 +21,7 @@ jobs:
         with:
           github_user_name: KubeCraftsMan
           svg_out_path: dist/github-contribution-grid-snake.svg
-
+      
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
