@@ -14,6 +14,7 @@ Currently, as a Plataform Engineer - SRE at Talkdesk.
     <a href="https://www.linkedin.com/in/breno-caetano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a>
     <a href = "mailto:brcaetanoferreira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+    <a href="https://instagram.com/b.rodrigo.caetano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://github.com/KubeCraftsMan?tab=followers">
         <img
             alt="Location"
@@ -121,4 +122,8 @@ Currently, as a Plataform Engineer - SRE at Talkdesk.
 <br/>
 
 
-![Snake animation](https://github.com/KubeCraftsMan/KubeCraftsMan/blob/output/github-contribution-grid-snake.svg)
+<div>
+    
+![Snake animation](https://github.com/BRodrigo/BRodrigo/blob/output/github-contribution-grid-snake.svg) 
+</div>
+
