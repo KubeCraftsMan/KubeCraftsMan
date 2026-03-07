@@ -91,7 +91,7 @@ Currently, as a Plataform Engineer - SRE at Talkdesk.
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=kubecraftsman&show_icons=true&theme=dark"
+    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true"
   />
 
 <img
